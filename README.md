@@ -1,5 +1,5 @@
 # csources_v4
-CSources compiled from Nim version 3. Based on https://github.com/nim-lang/Nim/commit/1cc36fb0f54273d530d5a1751d7b03b626d395f2
+CSources compiled from Nim version 2.4.1. Based on https://github.com/nim-lang/Nim/commit/1cc36fb0f54273d530d5a1751d7b03b626d395f2
 
 ## How these sources were generated
 
